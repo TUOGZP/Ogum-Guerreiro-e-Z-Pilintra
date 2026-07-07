@@ -1,13 +1,10 @@
 {
   "name": "Hinário Digital da Gira",
-  "short_name": "Hinário Gira",
-  "description": "Pontos cantados em formato mobile para acompanhar durante a gira.",
+  "short_name": "Hinário",
   "start_url": "./",
-  "scope": "./",
   "display": "standalone",
-  "background_color": "#0f1115",
-  "theme_color": "#0f1115",
-  "orientation": "portrait",
+  "background_color": "#111018",
+  "theme_color": "#12131c",
   "icons": [
     {
       "src": "icon-192.png",
