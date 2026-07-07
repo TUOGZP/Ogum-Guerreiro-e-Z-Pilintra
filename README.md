@@ -1,1 +1,0 @@
-# Ogum-Guerreiro-e-Z-Pilintra
